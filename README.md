@@ -20,6 +20,12 @@ For suggestions, create issues/pull requests on the [GitHub](https://github.com/
 
 You could possibly experience issues on Lethal Company versions that the modpack isn't yet tested for, however it's rare. Version numbers will appear here as "Modpack Version - Tested LC Version".
 
+### 1.0.1 - LC49
+
+- Increased Cull Factory in-factory cull distance to 60 to make the culling less noticable in the factories
+- Show tested Lethal Company version in the manifest description
+- Make the icon look better
+
 ### 1.0.0 - LC49
 
 Very open for improvement - create issues/pull requests on the [GitHub](https://github.com/intergrav/overdrive) repository

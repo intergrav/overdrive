@@ -1,6 +1,6 @@
 {
     "name": "Overdrive",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/intergrav/overdrive",
     "description": "[LCv49] Lethal Company modpack for major performance improvement while minimally modifying the game's visuals and functionality",
     "dependencies": [
