@@ -38,6 +38,11 @@ On a low end device and you're looking to improve the game performance even more
 
 You could possibly experience issues on Lethal Company versions that the modpack isn't yet tested for, however it's rare. Version numbers will appear here as "Modpack Version - Tested LC Version".
 
+### 1.1.1 - LC49
+
+- Heavily improve README with more information
+- Improve icon
+
 ### 1.1.0 - LC49
 
 - Remove Frosty's Fastest Company. Doesn't seem to do much and from a rough benchmark I tend to get slightly better framerate without it. May also possibly conflict with other mods in this modpack from a quick look through it's decompiled source code
