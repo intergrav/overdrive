@@ -8,7 +8,6 @@ For suggestions, create issues/pull requests on the [GitHub](https://github.com/
 
 - **CullFactory** stops rendering rooms and objects that are not supposed to be visible to the user, which heavily improves the performance inside the factory. This modpack also enables a setting for the culling range, with the mod's defaults.
 - **LC Symphony** speeds up startup. This modpack sets the `LaunchOption` setting to `online` so that the game automatically chooses online on startup, and also is set to skip the terminal boot screen. The ping metric is disabled to maintain parity with the Vanilla game, but you can enable it in the config.
-- **Frosty's Fastest Company** optimizes the game performance.
 - **HD Lethal Company** is configured to:
     - Reduce texture quality since the game's resolution is already low
     - Fog quality is set to very low (not off) as volumetric fog can be very heavy on some systems
