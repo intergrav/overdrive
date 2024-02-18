@@ -1,6 +1,6 @@
 # Overdrive
 
-Overdrive is a client-side modpack that can be used as a base for profiles that improves the games performance while minimally modifying the game's visuals and functionality. Licensed under the Unlicense.
+Overdrive is a (small) client-side modpack that can be used as a base for profiles that improves the games performance while minimally modifying the game's visuals and functionality. Updated frequently. Licensed under the Unlicense.
 
 For suggestions, create issues/pull requests on the [GitHub](https://github.com/intergrav/overdrive) repository. I'm pretty new to this, so there could be some oversights.
 
