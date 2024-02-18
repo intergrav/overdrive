@@ -12,7 +12,7 @@ For suggestions, create issues/pull requests on the [GitHub](https://github.com/
     - Reduce texture quality since the game's resolution is already low
     - Fog quality is set to very low (not off) as volumetric fog can be very heavy on some systems
     - Reduces the LODs since the game is usually very foggy and it won't be noticable to most
-        - If you have a mod that increases the view distance or removes fog, you may want to set the LODs back to the original value. I only have it set low because it's already hard to see in the distance in the Vanilla game.
+        - *If you have a mod that increases the view distance or removes fog, you may want to set the LODs back to the original value. I only have it set low because it's already hard to see in the distance in the Vanilla game.*
     - Shadowmap resolution is reduced to `256` because the game resolution is already low
     - Resolution is kept as game default `520p`/`1.000`
 
