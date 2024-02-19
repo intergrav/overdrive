@@ -27,9 +27,9 @@ On a low end device and you're looking to improve the game performance even more
     - Disable shadows by setting shadow quality to `0`. Shadows can be decently heavy in some cases.
     - Disable post processing, which will change the game's look but can improve performance.
     - Lower the game's resolution scale multiplier, which will improve performance.
-        - Not recommended because this can make it very hard to see what's happening in-game at low resolutions.
+        - *Not recommended because this can make it very hard to see what's happening in-game at low resolutions.*
     - Disable foliage, which will prevent the game from rendering bushes/grass.
-    - Lower texture resolution to `0` or `1`. This isn't guaranteed to improve performance but it might help.
+    - Lower texture resolution to `1` or `0`. This isn't guaranteed to improve performance but it might help on some machines.
 - In **CullFactory**, there are various settings to tweak.
     - At the cost of render distance, a.k.a. being able to see far, you can decrease the cull distance which will make the game render less stuff.
     - Try looking through it's config for some other settings that you may want to change.
