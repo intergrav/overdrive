@@ -1,6 +1,6 @@
 {
     "name": "Overdrive",
-    "version_number": "1.1.2",
+    "version_number": "1.1.3",
     "website_url": "https://github.com/intergrav/overdrive",
     "description": "[LCv49] Modpack for major performance improvement while minimally modifying the game's visuals/functionality",
     "dependencies": [
