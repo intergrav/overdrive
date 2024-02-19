@@ -2,7 +2,7 @@
     "name": "Overdrive",
     "version_number": "1.1.2",
     "website_url": "https://github.com/intergrav/overdrive",
-    "description": "[LCv49] Lethal Company modpack for major performance improvement while minimally modifying the game's visuals and functionality",
+    "description": "[LCv49] Modpack for major performance improvement while minimally modifying the game's visuals/functionality",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "fumiko-CullFactory-0.8.3",
