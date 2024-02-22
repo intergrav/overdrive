@@ -42,6 +42,11 @@ Are you on a very low end device looking to improve the game performance even mo
 
 You could possibly experience issues on Lethal Company versions that the modpack isn't yet tested for, however it's very rare. Version numbers will appear here as "Modpack Version - Tested LC Version".
 
+### 1.1.4 - LC49
+
+- Add more information to README
+- Shorten description in manifest
+
 ### 1.1.3 - LC49
 
 - Shorten description in manifest
