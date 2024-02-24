@@ -39,6 +39,7 @@ Are you on a very low end device looking to improve the game performance even mo
 - In **CullFactory**, there are various settings to tweak.
     - At the cost of render distance, a.k.a. being able to see far, you can decrease the cull distance which will make the game render less stuff.
     - Try looking through it's config for some other settings that you may want to mess around with.
+- You could try disabling **BepInEx** logging, which will make it very hard to solve issues if you have any, but may possibly improve performance slightly on some systems.
 
 ## Changelog
 
