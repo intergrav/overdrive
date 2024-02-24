@@ -50,6 +50,7 @@ You could possibly experience issues on Lethal Company versions that the modpack
 - Update CullFactory from 0.8.3 to 0.8.5
 - Add FixRPCLag
 - Add DissonanceLagFix
+- Add information to README
 
 ### 1.1.4 - LC49
 
