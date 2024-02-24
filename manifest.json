@@ -5,7 +5,7 @@
     "description": "[v49] Modpack for major performance improvement while minimally modifying the game's visuals/functionality",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "fumiko-CullFactory-0.8.3",
+        "fumiko-CullFactory-0.8.5",
         "alexanderjoe-LC_Symphony-1.3.0",
         "Sligili-HDLethalCompany-1.5.6"
     ]
