@@ -1,5 +1,9 @@
 Version numbers appear here as "Modpack Version - Tested LC Version". I'll try to test new Lethal Company versions as fast as I can - it's unlikely that there will be issues but there is a small chance that you could have some if playing on an untested LC version.
 
+### 1.2.1 - LC49
+
+- Move changelog to CHANGELOG.md
+
 ### 1.2.0 - LC49
 
 - Update CullFactory from 0.8.3 to 0.8.5
