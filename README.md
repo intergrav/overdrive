@@ -20,6 +20,8 @@ Most of these config changes were designed for the vanilla game, so if you are p
         - *If you have a mod that increases the view distance or you remove fog, you may want to set the LODs back to it's original value. I only have it set low because it's already hard to see far in the vanilla game. For more information about LODs in computer graphics, [look here](https://en.wikipedia.org/wiki/Level_of_detail_(computer_graphics)).*
     - Shadowmap resolution is reduced from `2048` to `256` because the game resolution is already low.
     - Resolution is kept as game default `520p`/`1.000`.
+- **DissonanceLagFix** significantly reduces lag spikes by changing the log level of DissonanceVoip. When a lag spike would occur, Dissonance previously spammed tons of warnings into the log, which extended the duration of the lag spike.
+- **FixRPCLag** sets the NetworkManager log level to `Normal`. Previously it was set to `Developer` which made every RPC error print out the RPC table contents, causing a huge lag spike that can last several seconds.
 
 ## Looking for more speed?
 
